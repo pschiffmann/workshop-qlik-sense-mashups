@@ -1,6 +1,6 @@
 # Qlik Sense Bootstrap mashup template
 
-A version of [this][bootstrap-template] template that has been turned into a Qlik Sense mashup template.
+A version of [this](https://getbootstrap.com/docs/4.5/examples/dashboard/) template that has been turned into a Qlik Sense mashup template.
 This repository contains an empty template and two pre-configured demo mashups.
 
 ## Installation

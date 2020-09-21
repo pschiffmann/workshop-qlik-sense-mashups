@@ -1,13 +1,13 @@
 {
 	"type": "mashup",
-	"name": "workshop-mashup-final",
-	"description": "Basic responsive mashup template",
+	"name": "single-page-demo",
+	"description": "",
 	"version": "1.0.0",
 	"author": "",
 	"homepage": "",
 	"keywords": "qlik-sense, visualization, mashup",
 	"license": "",
-	"repository": "",
+	"repository": "https://github.com/pschiffmann/workshop-qlik-sense-mashups",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}

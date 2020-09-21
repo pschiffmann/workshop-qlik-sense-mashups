@@ -2,7 +2,7 @@
  * Template customization
  */
 
-#current-selections {
+ #current-selections {
   height: 40px;
 }
 
@@ -10,7 +10,7 @@
   display: none;
 }
 
-.qvobject {
+.qvobject, .qvplaceholder {
   height: 100%;
 }
 
